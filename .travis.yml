@@ -3,6 +3,9 @@
 language: R
 sudo: false
 cache: packages
+repos:
+  CRAN: https://cloud.r-project.org
+  Sage: https://sage-bionetworks.github.io/ran
 
 r:
 - 3.3
