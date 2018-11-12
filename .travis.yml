@@ -7,6 +7,9 @@ repos:
   CRAN: https://cloud.r-project.org
   Sage: https://sage-bionetworks.github.io/ran
 
+r_github_packages:
+  - r-lib/covr
+
 r:
 - 3.3
 - oldrel

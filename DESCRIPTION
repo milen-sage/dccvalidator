@@ -18,7 +18,8 @@ Suggests:
 Additional_repositories:
     https://sage-bionetworks.github.io/ran
 Remotes:
-    Sage-Bionetworks/syndccutils/R
+    Sage-Bionetworks/syndccutils/R,
+    r-lib/covr
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
