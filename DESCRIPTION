@@ -15,7 +15,7 @@ Suggests:
     testthat,
     covr,
     syndccutils
-Additional_repositories:
+Additional_Repositories:
     https://sage-bionetworks.github.io/ran
 Remotes:
     Sage-Bionetworks/syndccutils/R
